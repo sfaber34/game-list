@@ -4,13 +4,13 @@ A collection of games developed by our team.
 
 ---
 
-## Game Title
+## Turn Tanks
 
-**Description:** Brief description of the game goes here.
+**Description:** Turn-based tank battle game. Test of basic gameplay loop. Not true multiplayer or mobile ready yet.
 
 **Links:**
-- 🚀 [Live Demo](https://your-game.vercel.app)
-- 💻 [Repository](https://github.com/username/repo-name)
+- 🚀 [https://turn-tanks.vercel.app/](https://turn-tanks.vercel.app/)
+- 💻 [https://github.com/sfaber34/turn-tanks](https://github.com/sfaber34/turn-tanks)
 
 ---
 
