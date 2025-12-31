@@ -23,3 +23,13 @@ A collection of games developed by our team.
 - 💻 [Repository](https://github.com/username/another-repo)
 
 ---
+
+## Another Game Title
+
+**Description:** Brief description of another game goes here.
+
+**Links:**
+- 🚀 [Live Demo](https://another-game.vercel.app)
+- 💻 [Repository](https://github.com/username/another-repo)
+
+---
