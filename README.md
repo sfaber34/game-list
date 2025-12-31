@@ -8,7 +8,6 @@ A collection of games prototypes.
 
 **Description:** Turn-based tank battle game. Test of basic gameplay loop. Not true multiplayer or mobile ready yet.
 
-**Links:**
 - 🚀 [https://turn-tanks.vercel.app/](https://turn-tanks.vercel.app/)
 - 💻 [https://github.com/sfaber34/turn-tanks](https://github.com/sfaber34/turn-tanks)
 
