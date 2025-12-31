@@ -1,6 +1,6 @@
 # game-list
 
-A collection of games prototypes.
+A collection of game prototypes.
 
 ---
 
