@@ -49,6 +49,15 @@ A collection of game prototypes.
 
 ---
 
+## ☄️ Max Extract
+
+**Description:** Smart contract orchestration game. Players write contracts to enable mining in their sectors and earn credits.
+
+- 🚀 [https://extract.fi/](https://extract.fi/)
+- 💻 [https://github.com/austintgriffith/max-extract?tab=readme-ov-file](https://github.com/austintgriffith/max-extract?tab=readme-ov-file)
+
+---
+
 ## Another Game Title
 
 **Description:** Brief description of another game goes here.
